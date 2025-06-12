@@ -1,0 +1,3 @@
+# Requisitos para a API de geração de PDF
+Flask==2.3.3
+WeasyPrint==60.1
